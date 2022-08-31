@@ -21,7 +21,7 @@ https://www.opensports.com.ar/
 
 Manuel Urruti: Mi nombre es Manuel, tengo 24 años y vivo en la ciudad de Olavarría. Soy estudiante de RRHH, amante Harry Potter y Batman, enfocado actualmente en el curso de desarrollo web.
 
-Matias Rosello: Mí nombre es Matías tengo 35 años, soy contador público, estudie en la UNCuyo de Mendoza. Entusiasta y con ganas de desarrollarme en el mundo de la programación.
+Matias Rossello: Mí nombre es Matías tengo 35 años, soy contador público, estudie en la UNCuyo de Mendoza. Entusiasta y con ganas de desarrollarme en el mundo de la programación.
 
 Francisco Fontanarrosa, abogado y estudiante de desarrollo web FullStack,  apasionado de la música y las bicicletas.
 
