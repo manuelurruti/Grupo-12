@@ -19,7 +19,7 @@ https://www.opensports.com.ar/
 
 -Listado del grupo con una breve descripción de cada uno:
 
-Manuel Urruti: Estudiante de RRHH, amante de Star wars, Harry Potter y Batman, enfocado actualmente en el curso de desarrollo web.
+Manuel Urruti: Mi nombre es Manuel, tengo 23 años, estudiante de RRHH, amante Harry Potter y Batman, enfocado actualmente en el curso de desarrollo web.
 
 Matias Rosello: Mí nombre es Matías tengo 35 años, soy contador público, estudie en la UNCuyo de Mendoza. Entusiasta y con ganas de desarrollarme en el mundo de la programación.
 
