@@ -21,4 +21,4 @@ https://www.opensports.com.ar/
 Manuel Urruti: Estudiante de RRHH, amante de Star wars, Harry Potter y Batman, enfocado actualmente en el curso de desarrollo web.
 Matias Rosello: Mí nombre es Matías tengo 35 años, soy contador público, estudie en la UNCuyo de Mendoza. Entusiasta y con ganas de desarrollarme en el mundo de la programación.
 
--
+-Francisco Fontanarrosa, abogado y estudiante de desarrollo web FullStack,  apasionado de la música y las bicicletas.
