@@ -24,3 +24,6 @@ Manuel Urruti: Mi nombre es Manuel, tengo 23 años y vivo en la ciudad de Olavar
 Matias Rosello: Mí nombre es Matías tengo 35 años, soy contador público, estudie en la UNCuyo de Mendoza. Entusiasta y con ganas de desarrollarme en el mundo de la programación.
 
 Francisco Fontanarrosa, abogado y estudiante de desarrollo web FullStack,  apasionado de la música y las bicicletas.
+
+TRELLO:
+https://trello.com/b/mGWCGchY/sprints
