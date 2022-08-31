@@ -3,6 +3,7 @@ Proyecto integrador digital house 2022
 -Temática y descripción del sitio:
 
 El sitio estará basado en la venta de productos de ropa deportiva, la cual tendrá sus respectivas categorías, sobre sexo, ofertas, moda actuales y sectores para cada tipo de prenda, en fin, un e-commerce de venta de ropa deportiva.
+Nuestro público objetivo será amplio debido a que la mayoría de las personas, no importase su edad, sexo u otra condición utiliza la indumentaria propuesta.
 -Listado de 5 páginas referentes en las que se basa su proyecto:
 
 
