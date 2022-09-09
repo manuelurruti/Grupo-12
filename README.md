@@ -1,5 +1,6 @@
 # Grupo-12
 Proyecto integrador digital house 2022
+NOMBRE DEL PROYECTO: SPOK
 -Temática y descripción del sitio:
 
 El sitio estará basado en la venta de productos de ropa deportiva, la cual tendrá sus respectivas categorías, sobre sexo, ofertas, moda actuales y sectores para cada tipo de prenda, en fin, un e-commerce de venta de ropa deportiva.
